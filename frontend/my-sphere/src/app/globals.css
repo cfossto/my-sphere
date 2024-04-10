@@ -31,3 +31,5 @@ body {
     text-wrap: balance;
   }
 }
+
+.dashboard-area { height: 200px; width: 500px; background-color: white; }
