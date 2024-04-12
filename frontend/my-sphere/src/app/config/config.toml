@@ -1,7 +1,11 @@
 [[hosts]]
-host1="yippie"
+host="yippie"
 url="http://"
 
 [[hosts]]
-host2="ka yay"
+host="ka yay"
 url="http2://"
+
+[[hosts]]
+host="yo"
+url="www."
